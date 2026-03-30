@@ -19,21 +19,28 @@ I build high-performance, secure applications with a focus on clean code and int
 ---
 
 ### 📁 Featured Projects
-#### 📊 [School Management ERP](https://github.com/SwiftTim/erp)
-A complete ERP featuring a **Constraint-Based Timetable Engine**. Uses intelligent backtracking algorithms to handle complex scheduling demands. 
-*Tech: PHP, MySQL, JavaScript*
+#### 📊 [proj2 - AI Budget Transparency](https://github.com/SwiftTim/proj2)
+An AI-powered system designed for county budget transparency, making financial data accessible and clear through interactive visualizations and automated processing.
+*Tech: Next.js, React, Python*
 
-#### 🔐 [Nexus Encrypted Chat](https://github.com/SwiftTim/Nexus)
-An end-to-end encrypted chat gateway designed for absolute privacy using SSL Tunneling to bypass ISP filters.
-*Tech: TypeScript, Security Architectures*
+#### 🛡️ [Guardian Switch](https://github.com/SwiftTim/guardian-switch)
+A fail-safe monitoring system that automatically notifies trusted contacts with critical information if user check-ins stop for a specified period.
+*Tech: TypeScript, Python*
 
-#### 🛰️ [ETPA Analyzer](https://github.com/SwiftTim/Encrypted-Traffic-Pattern-Analyzer-ETPA)
-Encrypted Traffic Pattern Analyzer for cybersecurity. Analyzes metadata patterns in E2E traffic without breaking encryption.
-*Tech: Python, Cybersecurity Tools*
+#### 🔐 [Nexus Encrypted Gateway](https://github.com/SwiftTim/Nexus)
+An end-to-end encrypted communication gateway featuring SSL tunneling and Port 443 support for secure, filtered traffic bypass.
+*Tech: Python, Security Architectures*
 
-#### 🎁 [Donations Hub](https://github.com/SwiftTim/Donations)
-A charity management platform with dynamic campaign tracking and integrated payment processing.
-*Tech: Full-stack Development*
+#### 🏥 [MedFlow Healthcare](https://github.com/SwiftTim/medflow)
+A comprehensive Healthcare Management System and Doctor-Patient Portal with interfaces for appointments, billing, and electronic records.
+*Tech: HTML5, CSS3, JavaScript*
+
+---
+
+### 🏗️ Under Development
+#### 📑 [School Management ERP](https://github.com/SwiftTim/erp)
+A robust school management suite featuring a Constraint-Based Timetable Engine. Currently undergoing major architectural upgrades. 
+*Tech: PHP (Laravel), MySQL, JavaScript*
 
 ---
 
