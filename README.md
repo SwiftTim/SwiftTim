@@ -47,8 +47,9 @@ A charity management platform with dynamic campaign tracking and integrated paym
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwiftTim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwiftTim&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SwiftTim&theme=tokyonight&margin-w=15" alt="GitHub Trophies" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=SwiftTim&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
