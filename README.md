@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Timothy Muthama (SwiftTim)!
 
 <p align="center">
-  <img src="header.png" alt="Timothy Muthama Banner" width="100%">
+  <img src="header.png?v=2" alt="Timothy Muthama Banner" width="100%">
 </p>
 
 ## 🚀 Full-stack Developer | Cybersecurity Enthusiast | UI/UX Designer
